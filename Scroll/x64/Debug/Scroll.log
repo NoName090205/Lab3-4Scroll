@@ -1,0 +1,4 @@
+﻿  Scroll.cpp
+C:\Users\kudra\source\repos\Scroll\Scroll\Scroll.cpp(22,72): warning C4100: lpCmdLine: неиспользованный формальный параметр
+C:\Users\kudra\source\repos\Scroll\Scroll\Scroll.cpp(22,51): warning C4100: hPrevInstance: неиспользованный формальный параметр
+  Scroll.vcxproj -> C:\Users\kudra\source\repos\Scroll\x64\Debug\Scroll.exe
