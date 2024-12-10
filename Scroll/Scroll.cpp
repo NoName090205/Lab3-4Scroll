@@ -123,6 +123,9 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
 				}
 			}
 		}
+		DeleteObject(hBrush);
+		DeleteObject(hPen);
+		EndPaint(hwnd, &ps);
 		return 0;
 	}
 	case WM_VSCROLL:
